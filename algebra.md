@@ -1,4 +1,3 @@
-
 #algebra#
 ##factors##
 ###simple factors###
@@ -11,5 +10,6 @@ Factorise the following:
 3. $xm + xz$
 4. $pq + pr$
 5. $x^2 + x^3$
+6. $X^3 + 3^x^2 + 2x + 1$
 
 
